@@ -465,7 +465,7 @@ body {
 
 
 #panels .links::-webkit-scrollbar {
-  width: 4.3px;
+  width: 4px;
 }
 #panels .links::-webkit-scrollbar-track {
   background: #ffffff00;
